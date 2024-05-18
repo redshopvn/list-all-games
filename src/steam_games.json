@@ -1,5 +1,284 @@
 [
     {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/library_600x900.jpg",
+        "name": "EA SPORTS™ FIFA 23"
+    },
+    
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/library_600x900.jpg",
+        "name": "EA SPORTS FC™ 24"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1665460/library_600x900.jpg",
+        "name": "eFootball™ 2024"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1462040/library_600x900.jpg",
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/library_600x900.jpg",
+        "name": "Marvel's Spider-Man: Miles Morales"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900.jpg",
+        "name": "Red Dead Redemption 2 (Việt Hóa)"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/library_600x900.jpg",
+        "name": "God of War (Việt Hóa)"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/library_600x900.jpg",
+        "name": "UNCHARTED™: Legacy of Thieves Collection (Việt Hóa)"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900.jpg",
+        "name": "ELDEN RING"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900.jpg",
+        "name": "Cyberpunk 2077 (Việt Hóa)"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/library_600x900.jpg",
+        "name": "Hogwarts Legacy (Việt Hóa)"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/library_600x900.jpg",
+        "name": "Grand Theft Auto V"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/library_600x900.jpg",
+        "name": "Sekiro™: Shadows Die Twice"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_600x900.jpg",
+        "name": "Resident Evil 4"
+    },
+    
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/library_600x900.jpg",
+        "name": "Assassin's Creed Odyssey"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/library_600x900.jpg",
+        "name": "Assassin's Creed Valhalla"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/library_600x900.jpg",
+        "name": "Far Cry 6"
+    },
+    
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/library_600x900.jpg",
+        "name": "The Elder Scrolls V: Skyrim Special Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/391220/library_600x900.jpg",
+        "name": "Rise of the Tomb Raider"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/library_600x900.jpg",
+        "name": "Shadow of the Tomb Raider"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888160/library_600x900.jpg",
+        "name": "ARMORED CORE™ VI FIRES OF RUBICON™"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/library_600x900.jpg",
+        "name": "Persona 5 Royal"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1382330/library_600x900.jpg",
+        "name": "Persona 5 Strikers"
+    },
+    
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1113000/library_600x900.jpg",
+        "name": "Persona 4 Golden"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1809700/library_600x900.jpg",
+        "name": "Persona 3 Portable"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/627270/library_600x900.jpg",
+        "name": "Injustice™ 2"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/21130/library_600x900.jpg",
+        "name": "LEGO® Harry Potter: Years 1-4"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/204120/library_600x900.jpg",
+        "name": "LEGO® Harry Potter: Years 5-7"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/library_600x900.jpg",
+        "name": "Mortal Kombat 11"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/48190/library_600x900.jpg",
+        "name": "Assassin's Creed Brotherhood"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/33230/library_600x900.jpg",
+        "name": "Assassin's Creed II"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/201870/portrait.png",
+        "name": "Assassin's Creed Revelations"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582160/library_600x900.jpg",
+        "name": "Assassin's Creed Origins"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/library_600x900.jpg",
+        "name": "Far Cry 4"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900.jpg",
+        "name": "The Witcher 3: Wild Hunt"
+    },
+    
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/20920/library_600x900.jpg",
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/20900/library_600x900.jpg",
+        "name": "The Witcher: Enhanced Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/library_600x900.jpg",
+        "name": "Devil May Cry 5"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/278080/library_600x900.jpg",
+        "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/library_600x900.jpg",
+        "name": "Forza Horizon 5"
+    },
+    
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/library_600x900.jpg",
+        "name": "Monster Hunter: World"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/library_600x900.jpg",
+        "name": "MONSTER HUNTER RISE"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/678950/library_600x900.jpg",
+        "name": "DRAGON BALL FighterZ"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/379720/library_600x900.jpg",
+        "name": "DOOM"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/851850/library_600x900.jpg",
+        "name": "DRAGON BALL Z: KAKAROT"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/library_600x900.jpg",
+        "name": "NieR:Automata™"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/library_600x900.jpg",
+        "name": "Control Ultimate Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1328660/library_600x900.jpg",
+        "name": "Need for Speed™ Hot Pursuit Remastered"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/899770/library_600x900.jpg",
+        "name": "Last Epoch"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/library_600x900.jpg",
+        "name": "Need for Speed™ Heat "
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1262580/library_600x900.jpg",
+        "name": "Need for Speed™ Payback"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1919590/library_600x900.jpg",
+        "name": "NBA 2K23"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/library_600x900.jpg",
+        "name": "Nioh 2 – The Complete Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2138710/library_600x900.jpg",
+        "name": "Sifu"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/library_600x900.jpg",
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/library_600x900.jpg",
+        "name": "STAR WARS Jedi: Fallen Order™ "
+    },
+    
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/library_600x900.jpg",
+        "name": "Horizon Zero Dawn™ Complete Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/261570/library_600x900.jpg",
+        "name": "Ori and the Blind Forest"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/387290/library_600x900.jpg",
+        "name": "Ori and the Blind Forest: Definitive Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/library_600x900.jpg",
+        "name": "Sea of Stars"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/544750/library_600x900.jpg",
+        "name": "SOULCALIBUR VI"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/library_600x900.jpg",
+        "name": "Stray"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/203160/library_600x900.jpg",
+        "name": "Tomb Raider"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1003590/library_600x900.jpg",
+        "name": "Tetris® Effect: Connected"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235140/library_600x900.jpg",
+        "name": "Yakuza: Like a Dragon"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/383180/library_600x900.jpg",
+        "name": "Dead Island Riptide Definitive Edition"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1475810/library_600x900.jpg",
+        "name": "Ghostwire: Tokyo"
+    },
+    {
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/library_600x900.jpg",
+        "name": "Black Desert"
+    },
+    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3300/portrait.png",
         "name": "Bejeweled 2 Deluxe"
     },
@@ -28,10 +307,6 @@
         "name": "The Incredible Adventures of Van Helsing"
     },
     {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/library_600x900.jpg",
-        "name": "MONSTER HUNTER RISE"
-    },
-    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/588970/library_600x900.jpg",
         "name": "Oik"
     },
@@ -51,10 +326,7 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/library_600x900.jpg",
         "name": "Resident Evil 2"
     },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/library_600x900.jpg",
-        "name": "Sekiro™: Shadows Die Twice"
-    },
+   
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252410/library_600x900.jpg",
         "name": "SteamWorld Dig"
@@ -87,10 +359,7 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/library_600x900.jpg",
         "name": "DOOM Eternal"
     },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/678950/library_600x900.jpg",
-        "name": "DRAGON BALL FighterZ"
-    },
+    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1562430/library_600x900.jpg",
         "name": "DREDGE"
@@ -103,22 +372,7 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/753640/library_600x900.jpg",
         "name": "Outer Wilds"
     },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/library_600x900.jpg",
-        "name": "Sea of Stars"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/544750/library_600x900.jpg",
-        "name": "SOULCALIBUR VI"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/library_600x900.jpg",
-        "name": "Stray"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/203160/library_600x900.jpg",
-        "name": "Tomb Raider"
-    },
+    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158370/library_600x900.jpg",
         "name": "Aragami 2"
@@ -139,30 +393,7 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/960910/library_600x900.jpg",
         "name": "Heavy Rain"
     },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888160/library_600x900.jpg",
-        "name": "ARMORED CORE™ VI FIRES OF RUBICON™"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/library_600x900.jpg",
-        "name": "Persona 5 Royal"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1003590/library_600x900.jpg",
-        "name": "Tetris® Effect: Connected"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235140/library_600x900.jpg",
-        "name": "Yakuza: Like a Dragon"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/383180/library_600x900.jpg",
-        "name": "Dead Island Riptide Definitive Edition"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1475810/library_600x900.jpg",
-        "name": "Ghostwire: Tokyo"
-    },
+    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/813780/library_600x900.jpg",
         "name": "Age of Empires II: Definitive Edition"
@@ -170,22 +401,6 @@
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/919360/library_600x900.jpg",
         "name": "Alaloth - Champions of The Four Kingdoms"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/library_600x900.jpg",
-        "name": "The Elder Scrolls V: Skyrim Special Edition"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1462040/library_600x900.jpg",
-        "name": "FINAL FANTASY VII REMAKE INTERGRADE"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/library_600x900.jpg",
-        "name": "Marvel's Spider-Man: Miles Morales"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_600x900.jpg",
-        "name": "Resident Evil 4"
     },
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/269190/library_600x900.jpg",
@@ -234,22 +449,6 @@
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/library_600x900.jpg",
         "name": "The Forest"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/627270/library_600x900.jpg",
-        "name": "Injustice™ 2"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/21130/library_600x900.jpg",
-        "name": "LEGO® Harry Potter: Years 1-4"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/204120/library_600x900.jpg",
-        "name": "LEGO® Harry Potter: Years 5-7"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/library_600x900.jpg",
-        "name": "Mortal Kombat 11"
     },
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1226510/library_600x900.jpg",
@@ -306,26 +505,6 @@
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1202690/library_600x900.jpg",
         "name": "Sex with the Devil"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900.jpg",
-        "name": "ELDEN RING"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/library_600x900.jpg",
-        "name": "Hogwarts Legacy (Việt Hóa)"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1919590/library_600x900.jpg",
-        "name": "NBA 2K23"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/library_600x900.jpg",
-        "name": "Nioh 2 – The Complete Edition"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2138710/library_600x900.jpg",
-        "name": "Sifu"
     },
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1567020/library_600x900.jpg",
@@ -444,25 +623,10 @@
         "name": "Cult of the Lamb (Việt Hóa)"
     },
     {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900.jpg",
-        "name": "Cyberpunk 2077 (Việt Hóa)"
-    },
-    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/383150/library_600x900.jpg",
         "name": "Dead Island Definitive Edition"
     },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/379720/library_600x900.jpg",
-        "name": "DOOM"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/851850/library_600x900.jpg",
-        "name": "DRAGON BALL Z: KAKAROT"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/library_600x900.jpg",
-        "name": "NieR:Automata™"
-    },
+    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/684410/library_600x900.jpg",
         "name": "Bridge Constructor Portal"
@@ -548,10 +712,6 @@
         "name": "Dying Light"
     },
     {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1809700/library_600x900.jpg",
-        "name": "Persona 3 Portable"
-    },
-    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/library_600x900.jpg",
         "name": "Project Zomboid"
     },
@@ -616,18 +776,6 @@
         "name": "Hellblade: Senua's Sacrifice VR Edition"
     },
     {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/library_600x900.jpg",
-        "name": "Horizon Zero Dawn™ Complete Edition"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/261570/library_600x900.jpg",
-        "name": "Ori and the Blind Forest"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/387290/library_600x900.jpg",
-        "name": "Ori and the Blind Forest: Definitive Edition"
-    },
-    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1057090/library_600x900.jpg",
         "name": "Ori and the Will of the Wisps"
     },
@@ -652,33 +800,10 @@
         "name": "Townscaper"
     },
     {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/library_600x900.jpg",
-        "name": "UNCHARTED™: Legacy of Thieves Collection (Việt Hóa)"
-    },
-    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/library_600x900.jpg",
         "name": "Valheim"
     },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900.jpg",
-        "name": "The Witcher 3: Wild Hunt"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/library_600x900.jpg",
-        "name": "Devil May Cry 5"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/278080/library_600x900.jpg",
-        "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/library_600x900.jpg",
-        "name": "Forza Horizon 5"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/library_600x900.jpg",
-        "name": "God of War (Việt Hóa)"
-    },
+    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/library_600x900.jpg",
         "name": "Kingdom Come: Deliverance (Việt Hóa)"
@@ -707,10 +832,7 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/19680/library_600x900.jpg",
         "name": "Alice: Madness Returns"
     },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/library_600x900.jpg",
-        "name": "Control Ultimate Edition"
-    },
+    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/746580/library_600x900.jpg",
         "name": "HARDCORE MECHA"
@@ -862,10 +984,6 @@
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/768520/library_600x900.jpg",
         "name": "Red Solstice 2: Survivors"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1382330/library_600x900.jpg",
-        "name": "Persona 5 Strikers"
     },
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1056960/library_600x900.jpg",
@@ -1052,10 +1170,6 @@
         "name": "Tales of Berseria"
     },
     {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/library_600x900.jpg",
-        "name": "Shadow of the Tomb Raider"
-    },
-    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1194630/library_600x900.jpg",
         "name": "The Dark Pictures Anthology: Little Hope"
     },
@@ -1110,10 +1224,6 @@
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/345350/portrait.png",
         "name": "LIGHTNING RETURNS: FINAL FANTASY XIII"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1113000/library_600x900.jpg",
-        "name": "Persona 4 Golden"
     },
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/71340/library_600x900.jpg",
@@ -1592,10 +1702,6 @@
         "name": "Road Redemption"
     },
     {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/391220/library_600x900.jpg",
-        "name": "Rise of the Tomb Raider"
-    },
-    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/632350/library_600x900.jpg",
         "name": "Cyberdimension Neptunia: 4 Goddesses Online"
     },
@@ -1694,10 +1800,6 @@
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/555150/library_600x900.jpg",
         "name": "The First Tree"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/library_600x900.jpg",
-        "name": "Monster Hunter: World"
     },
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/388800/library_600x900.jpg",
@@ -2016,82 +2118,6 @@
         "name": "DISTRAINT: Deluxe Edition"
     },
     {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/48190/library_600x900.jpg",
-        "name": "Assassin's Creed Brotherhood"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/33230/library_600x900.jpg",
-        "name": "Assassin's Creed II"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/201870/portrait.png",
-        "name": "Assassin's Creed Revelations"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582160/library_600x900.jpg",
-        "name": "Assassin's Creed Origins"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/library_600x900.jpg",
-        "name": "EA SPORTS FC™ 24"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/library_600x900.jpg",
-        "name": "Far Cry 4"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1328660/library_600x900.jpg",
-        "name": "Need for Speed™ Hot Pursuit Remastered"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/899770/library_600x900.jpg",
-        "name": "Last Epoch"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/library_600x900.jpg",
-        "name": "Need for Speed™ Heat "
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1262580/library_600x900.jpg",
-        "name": "Need for Speed™ Payback"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/library_600x900.jpg",
-        "name": "Grand Theft Auto V"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/library_600x900.jpg",
-        "name": "Assassin's Creed Valhalla"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/library_600x900.jpg",
-        "name": "Far Cry 6"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/library_600x900.jpg",
-        "name": "Assassin's Creed Odyssey"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/library_600x900.jpg",
-        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/library_600x900.jpg",
-        "name": "STAR WARS Jedi: Fallen Order™ "
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/library_600x900.jpg",
-        "name": "EA SPORTS™ FIFA 23"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900.jpg",
-        "name": "Red Dead Redemption 2 (Việt Hóa)"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/library_600x900.jpg",
-        "name": "Black Desert"
-    },
-    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/library_600x900.jpg",
         "name": "Tom Clancy's Rainbow Six Siege"
     },
@@ -2254,10 +2280,6 @@
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/library_600x900.jpg",
         "name": "War Thunder"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1665460/library_600x900.jpg",
-        "name": "eFootball™ 2024"
     },
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1352330/library_600x900.jpg",
@@ -3690,14 +3712,6 @@
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/356570/library_600x900.jpg",
         "name": "Party Hard"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/20920/library_600x900.jpg",
-        "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
-    },
-    {
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/20900/library_600x900.jpg",
-        "name": "The Witcher: Enhanced Edition"
     },
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/50300/library_600x900.jpg",
