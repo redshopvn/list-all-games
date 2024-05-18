@@ -19,10 +19,9 @@ const FindGames = () => {
         if (filtered.length === 0) {
             setMessage('Có 0 games chưa từ khóa '+ value)
         } else {
-            
-            setFoundGame(filtered)
             setMessage('')
         }
+        setFoundGame(filtered)
         
     }
     const onClear = () => {
