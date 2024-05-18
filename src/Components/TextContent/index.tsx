@@ -1,5 +1,3 @@
-import { useEffect } from "react";
-
 const TextContent = ({ count }: { count: number }) => {
 
     const year = new Date().getFullYear().toString();
