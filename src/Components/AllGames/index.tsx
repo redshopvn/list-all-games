@@ -1,12 +1,11 @@
 import AllSteamGames from '../../steam_games.json'
 import AllEpicGames from '../../epic_games.json'
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 const AllGames = () => {
     const allGames = [...AllSteamGames, ...AllEpicGames]
 
     return (<div id="list_game_container" className='list_game_container'>
         {allGames.map((g, i) =>
-            <div className='ig' key={`game-${g.name}-${i}`}><LazyLoadImage
+            <div className='ig' key={`game-${g.name}-${i}`}><img
                 alt={g.name}
                 height={195}
                 title={g.name}
