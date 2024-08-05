@@ -5,7 +5,7 @@ const NewGames = () => {
 
     return (<div className="card_new">
         <p className='message'>Game Mới</p><div id="list_game_container" className='list_game_container_new'>
-        {allGames.map((g, i) =>
+        {allGames.map((g: any, i) =>
             g.tags && g.tags.includes('new_20240805') && <div className='ig' key={`game-${g.name}-${i}`}><img
                 alt={g.name}
                 height={195}

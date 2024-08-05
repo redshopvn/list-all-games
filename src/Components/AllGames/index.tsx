@@ -4,7 +4,7 @@ const AllGames = () => {
     const allGames = [...AllSteamGames, ...AllEpicGames]
 
     return (<div id="list_game_container" className='list_game_container'>
-        {allGames.map((g, i) =>
+        {allGames.map((g: any, i) =>
             !g.tags && <div className='ig' key={`game-${g.name}-${i}`}><img
                 alt={g.name}
                 height={195}
