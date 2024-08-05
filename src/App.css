@@ -220,7 +220,10 @@ button:active:before {
   font-size: 35px;
   line-height: 70px;
 }
-
+@font-face {
+  font-family: 'ds-digital';
+  src: url(/fonts/DS-DIGI.TTF);
+}
 .totalgame {
   font-weight: bold;
   font-size: 25px;
