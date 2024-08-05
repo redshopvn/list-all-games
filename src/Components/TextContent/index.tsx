@@ -5,7 +5,7 @@ const TextContent = ({ count }: { count: number }) => {
     const month = new Date().getMonth().toString();
     
     return <div className="para">
-        <p id="totalgame" className="totalgame">Tổng cộng: {count} Games <span id="lastupdate">{`(lần cập nhật gần nhất: ${date}/${month}/${year})`}</span></p>
+        <p id="totalgame" className="totalgame">Tổng cộng: {count} Games <span id="lastupdate">{`(lần cập nhật gần nhất: ${date}/${+month+1}/${year})`}</span></p>
         <p> Để tri ân khách hàng cũ và mới, <a target="#" href='https://redshop.vn'><span className="red">RED</span>shop.vn</a>  thân gửi quý khách tài khoản Steam có rất nhiều tựa game đỉnh cao,
             một số game có Việt Hóa. Các tựa game mới sẽ thường xuyên được cập nhật giúp quý khách có trải nghiệm Steam
             Deck tuyệt vời nhất.
