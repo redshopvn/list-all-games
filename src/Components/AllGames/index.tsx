@@ -5,7 +5,7 @@ const AllGames = () => {
 
     return (<div id="list_game_container" className='list_game_container'>
         {allGames.map((g, i) =>
-            <div className='ig' key={`game-${g.name}-${i}`}><img
+            !g.tags && <div className='ig' key={`game-${g.name}-${i}`}><img
                 alt={g.name}
                 height={195}
                 title={g.name}

@@ -1,9 +1,160 @@
 [
     {
+        "name": "Ghost of Tsushima DIRECTOR'S CUT",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900.jpg",
+        "tags": "new_20240805, highlight"
+    },
+    {
+        "name": "ACE COMBAT™7: SKIES UNKNOWN",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502500/library_600x900.jpg",
+        "tags": "new_20240805, highlight"
+    },
+    
+    {
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/272510/portrait.png",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "No Rest for the Wicked",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/library_600x900.jpg",
+        "tags": "new_20240805, highlight"
+    },
+    {
+        "name": "Grand Theft Auto IV: The Complete Edition",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/library_600x900.jpg",
+        "tags": "new_20240805, highlight"
+    },
+    {
+        "name": "Divinity: Original Sin 2",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/library_600x900.jpg",
+        "tags": "new_20240805, highlight"
+    },
+    {
+        "name": "Shin Megami Tensei V: Vengeance",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875830/library_600x900.jpg",
+        "tags": "new_20240805, highlight"
+    },
+    {
+        "name": "Warhammer 40,000: Gladius - Relics of War",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489630/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Command & Conquer 3: Kane's Wrath™",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24810/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Command & Conquer 3: Tiberium Wars™",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24790/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "CONSORTIUM Remastered",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380550/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "ENDLESS™ Legend",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Angel Legion: LSP Idle RPG",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333350/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "An Arcade Full of Cats",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Asphalt Legends Unite",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1815780/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Cooking Live: Restaurant Game",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1990690/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Dead or Alive 5 Last Round",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311730/portrait.png",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "DEAD OR ALIVE 6",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838380/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Once Human",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Poppy Playtime",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1721470/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Furry Killer",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206460/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Hegemony Rome: The Rise of Caesar",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227060/portrait.png",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Hell Let Loose",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Hell Let Loose (Public Testing)",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504860/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Men of War: Assault Squad 2",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244450/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Poker Hands",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1261670/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "School Years",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125480/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    
+    {
+        "name": "Sky: Children of the Light",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2325290/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "UNDEFEATED",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116960/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "World of Warships",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/library_600x900.jpg",
         "name": "EA SPORTS™ FIFA 23"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/library_600x900.jpg",
         "name": "EA SPORTS FC™ 24"
@@ -56,7 +207,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_600x900.jpg",
         "name": "Resident Evil 4"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/library_600x900.jpg",
         "name": "Assassin's Creed Odyssey"
@@ -69,7 +219,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/library_600x900.jpg",
         "name": "Far Cry 6"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/library_600x900.jpg",
         "name": "The Elder Scrolls V: Skyrim Special Edition"
@@ -94,7 +243,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1382330/library_600x900.jpg",
         "name": "Persona 5 Strikers"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1113000/library_600x900.jpg",
         "name": "Persona 4 Golden"
@@ -143,7 +291,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900.jpg",
         "name": "The Witcher 3: Wild Hunt"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/20920/library_600x900.jpg",
         "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
@@ -164,7 +311,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/library_600x900.jpg",
         "name": "Forza Horizon 5"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/library_600x900.jpg",
         "name": "Monster Hunter: World"
@@ -229,7 +375,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/library_600x900.jpg",
         "name": "STAR WARS Jedi: Fallen Order™ "
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/library_600x900.jpg",
         "name": "Horizon Zero Dawn™ Complete Edition"
@@ -326,7 +471,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/library_600x900.jpg",
         "name": "Resident Evil 2"
     },
-   
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252410/library_600x900.jpg",
         "name": "SteamWorld Dig"
@@ -359,7 +503,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/library_600x900.jpg",
         "name": "DOOM Eternal"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1562430/library_600x900.jpg",
         "name": "DREDGE"
@@ -372,7 +515,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/753640/library_600x900.jpg",
         "name": "Outer Wilds"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158370/library_600x900.jpg",
         "name": "Aragami 2"
@@ -393,7 +535,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/960910/library_600x900.jpg",
         "name": "Heavy Rain"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/813780/library_600x900.jpg",
         "name": "Age of Empires II: Definitive Edition"
@@ -626,7 +767,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/383150/library_600x900.jpg",
         "name": "Dead Island Definitive Edition"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/684410/library_600x900.jpg",
         "name": "Bridge Constructor Portal"
@@ -803,7 +943,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/library_600x900.jpg",
         "name": "Valheim"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/library_600x900.jpg",
         "name": "Kingdom Come: Deliverance (Việt Hóa)"
@@ -832,7 +971,6 @@
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/19680/library_600x900.jpg",
         "name": "Alice: Madness Returns"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/746580/library_600x900.jpg",
         "name": "HARDCORE MECHA"

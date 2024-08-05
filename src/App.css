@@ -38,6 +38,13 @@
   /* padding: 20px; */
 }
 
+.list_game_container_new {
+  max-width: 1140px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 .ig {
   width:120px;
   padding: 4px;
@@ -297,4 +304,55 @@ button:active:before {
   text-align: center;
 /*title div is at the back of container and hence not visible*/
   /* transition: 0.8s; */
+}
+
+.card_new {
+  /* width: 60vmin;
+	 height: 50vmin;
+	 display: grid; */
+	 place-content: center;
+	 color: white;
+	 text-shadow: 0 1px 0 #000;
+	 --border-angle: 0turn;
+	 --main-bg: conic-gradient(from var(--border-angle), #213, #112 5%, #112 60%, #213 95%);
+	 border: solid 5px transparent;
+	 border-radius: 2em;
+	 --gradient-border: conic-gradient(from var(--border-angle), transparent 25%, #08f, #f03 99%, transparent);
+	 background: var(--main-bg) padding-box, var(--gradient-border) border-box, var(--main-bg) border-box;
+	 background-position: center center;
+	 animation: bg-spin 2s linear infinite;
+   padding: 20px;
+   margin-bottom: 20px;
+}
+@keyframes bg-spin {
+  to {
+    --border-angle: 1turn;
+ }
+}
+.box:hover {
+  animation-play-state: paused;
+}
+@property --border-angle {
+  syntax: "<angle>";
+  inherits: true;
+  initial-value: 0turn;
+}
+
+.highlight_game {
+  place-content: center;
+	 color: white;
+	 text-shadow: 0 1px 0 #000;
+	 --border-angle: 0turn;
+	 --main-bg: conic-gradient(from var(--border-angle), #213, #112 5%, #112 60%, #213 95%);
+	 border: solid 5px transparent;
+	 /* border-radius: 16px; */
+	 --gradient-border: conic-gradient(from var(--border-angle), transparent 25%, #08f, #f03 99%, transparent);
+	 background: var(--main-bg) padding-box, var(--gradient-border) border-box, var(--main-bg) border-box;
+	 background-position: center center;
+	 animation: bg-spin 3s linear infinite;
+}
+
+.highlight_game_title {
+  bottom: 8px;
+  left: 8px;
 }
