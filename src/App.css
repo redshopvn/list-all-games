@@ -315,7 +315,7 @@ button:active:before {
 	 display: grid; */
 	 place-content: center;
 	 color: white;
-	 text-shadow: 0 1px 0 #000;
+	 /* text-shadow: 0 1px 0 #000; */
 	 --border-angle: 0turn;
 	 --main-bg: conic-gradient(from var(--border-angle), #213, #112 5%, #112 60%, #213 95%);
 	 border: solid 5px transparent;
@@ -344,7 +344,7 @@ button:active:before {
 .highlight_game {
   place-content: center;
 	 color: white;
-	 text-shadow: 0 1px 0 #000;
+	 /* text-shadow: 0 1px 0 #000; */
 	 --border-angle: 0turn;
 	 --main-bg: conic-gradient(from var(--border-angle), #213, #112 5%, #112 60%, #213 95%);
 	 border: solid 5px transparent;
