@@ -1,7 +1,7 @@
 #root {
   max-width: 1140px;
   overflow-x: hidden;
-  
+
 }
 
 #lastupdate {
@@ -45,14 +45,32 @@
   justify-content: space-between;
 }
 
+.shimmer {
+  -webkit-mask: linear-gradient(-60deg, #000 30%, #0005, #000 70%) right/300% 100%;
+  background-repeat: no-repeat;
+  animation: shimmer 2.5s infinite;
+  color: grey;
+}
+
+@keyframes shimmer {
+  100% {
+    -webkit-mask-position: left
+  }
+}
+
 .ig {
-  width:120px;
+  width: 30%;
+  max-width: 120px;
+  min-width: 100px;
   padding: 4px;
   position: relative;
   margin-bottom: 12px;
 }
 
-.ig  {
+
+
+
+.ig {
   transition: transform 0.3s ease-in-out;
   -webkit-transition: transform 0.3s ease-in-out;
 }
@@ -99,17 +117,17 @@ body {
   min-height: 150px;
   /* padding: 20px; */
   margin-bottom: 24px;
-  padding-bottom: 20px 
+  padding-bottom: 20px
 }
 
 .para {
   font-family: system-ui;
   max-width: 1140px;
   padding: 16px;
-  
+
 }
 
-.para p{
+.para p {
   width: 100%;
   padding-left: 8px;
   padding-right: 8px;
@@ -220,10 +238,12 @@ button:active:before {
   font-size: 35px;
   line-height: 70px;
 }
+
 @font-face {
   font-family: 'ds-digital';
   src: url(/fonts/DS-DIGI.TTF);
 }
+
 .totalgame {
   font-weight: bold;
   font-size: 25px;
@@ -265,8 +285,8 @@ button:active:before {
   display: flex;
   justify-content: center;
   font-family: sans-serif;
-    font-size: 24px;
-    font-weight: bold
+  font-size: 24px;
+  font-weight: bold
 }
 
 .title {
@@ -274,7 +294,7 @@ button:active:before {
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
   position: absolute;
-/*title is positioned at the top of container div*/
+  /*title is positioned at the top of container div*/
   bottom: 4px;
   color: white;
   width: 94%;
@@ -282,13 +302,13 @@ button:active:before {
   font-size: 16px;
   padding: 8px 0;
   text-align: center;
-/*title div is at the back of container and hence not visible*/
+  /*title div is at the back of container and hence not visible*/
   z-index: -1;
   /* transition: 0.8s; */
 }
 
 .ig:hover .title {
-/*becomes visible on hover as title comes on top of container*/
+  /*becomes visible on hover as title comes on top of container*/
   z-index: 0;
 }
 
@@ -297,7 +317,7 @@ button:active:before {
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
   position: absolute;
-/*title is positioned at the top of container div*/
+  /*title is positioned at the top of container div*/
   bottom: 4px;
   color: white;
   width: 94%;
@@ -305,7 +325,7 @@ button:active:before {
   font-size: 16px;
   padding: 8px 0;
   text-align: center;
-/*title div is at the back of container and hence not visible*/
+  /*title div is at the back of container and hence not visible*/
   /* transition: 0.8s; */
 }
 
@@ -313,28 +333,40 @@ button:active:before {
   /* width: 60vmin;
 	 height: 50vmin;
 	 display: grid; */
-	 place-content: center;
-	 color: white;
-	 /* text-shadow: 0 1px 0 #000; */
-	 --border-angle: 0turn;
+  place-content: center;
+  color: white;
+  /* text-shadow: 0 1px 0 #000; */
+  /* --border-angle: 0turn;
 	 --main-bg: conic-gradient(from var(--border-angle), #213, #112 5%, #112 60%, #213 95%);
-	 border: solid 5px transparent;
-	 border-radius: 2em;
-	 --gradient-border: conic-gradient(from var(--border-angle), transparent 25%, #08f, #f03 99%, transparent);
-	 background: var(--main-bg) padding-box, var(--gradient-border) border-box, var(--main-bg) border-box;
-	 background-position: center center;
-	 animation: bg-spin 2s linear infinite;
-   padding: 20px;
-   margin-bottom: 20px;
+	 border: solid 5px transparent; */
+  border-radius: 2em;
+  /* --gradient-border: conic-gradient(from var(--border-angle), transparent 25%, #08f, #f03 99%, transparent); */
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  /* background-position: center center; */
+  animation: gradient 15s ease infinite;
+  padding: 20px;
+  margin-bottom: 20px;
 }
-@keyframes bg-spin {
-  to {
-    --border-angle: 1turn;
- }
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
 }
+
 .box:hover {
   animation-play-state: paused;
 }
+
 @property --border-angle {
   syntax: "<angle>";
   inherits: true;
@@ -343,16 +375,16 @@ button:active:before {
 
 .highlight_game {
   place-content: center;
-	 color: white;
-	 /* text-shadow: 0 1px 0 #000; */
-	 --border-angle: 0turn;
-	 --main-bg: conic-gradient(from var(--border-angle), #213, #112 5%, #112 60%, #213 95%);
-	 border: solid 5px transparent;
-	 /* border-radius: 16px; */
-	 --gradient-border: conic-gradient(from var(--border-angle), transparent 25%, #08f, #f03 99%, transparent);
-	 background: var(--main-bg) padding-box, var(--gradient-border) border-box, var(--main-bg) border-box;
-	 background-position: center center;
-	 animation: bg-spin 3s linear infinite;
+  color: white;
+  /* text-shadow: 0 1px 0 #000; */
+  --border-angle: 0turn;
+  --main-bg: conic-gradient(from var(--border-angle), #213, #112 5%, #112 60%, #213 95%);
+  border: solid 5px transparent;
+  /* border-radius: 16px; */
+  --gradient-border: conic-gradient(from var(--border-angle), transparent 25%, #08f, #f03 99%, transparent);
+  background: var(--main-bg) padding-box, var(--gradient-border) border-box, var(--main-bg) border-box;
+  background-position: center center;
+  animation: bg-spin 3s linear infinite;
 }
 
 .highlight_game_title {
