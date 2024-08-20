@@ -1,5 +1,10 @@
 [
     {
+        "name": "Black Myth: Wukong",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg",
+        "tags": "new_20240805, highlight"
+    },
+    {
         "name": "Ghost of Tsushima DIRECTOR'S CUT",
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900.jpg",
         "tags": "new_20240805, highlight"
@@ -7,19 +12,17 @@
     {
         "name": "ACE COMBAT™7: SKIES UNKNOWN",
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502500/library_600x900.jpg",
-        "tags": "new_20240805, highlight"
+        "tags": "new_20240805"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/289650/library_600x900.jpg",
         "name": "Assassin's Creed Unity",
-        "tags": "new_20240805, highlight"
+        "tags": "new_20240805"
     },
-    
     {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/368500/library_600x900.jpg",
         "name": "Assassin's Creed Syndicate",
-        "tags": "new_20240805, highlight"
+        "tags": "new_20240805"
     },
     {
         "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
@@ -29,22 +32,22 @@
     {
         "name": "No Rest for the Wicked",
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/library_600x900.jpg",
-        "tags": "new_20240805, highlight"
+        "tags": "new_20240805"
     },
     {
         "name": "Grand Theft Auto IV: The Complete Edition",
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/library_600x900.jpg",
-        "tags": "new_20240805, highlight"
+        "tags": "new_20240805"
     },
     {
         "name": "Divinity: Original Sin 2",
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/library_600x900.jpg",
-        "tags": "new_20240805, highlight"
+        "tags": "new_20240805"
     },
     {
         "name": "Shin Megami Tensei V: Vengeance",
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875830/library_600x900.jpg",
-        "tags": "new_20240805, highlight"
+        "tags": "new_20240805"
     },
     {
         "name": "Warhammer 40,000: Gladius - Relics of War",
@@ -146,7 +149,6 @@
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125480/library_600x900.jpg",
         "tags": "new_20240805"
     },
-    
     {
         "name": "Sky: Children of the Light",
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2325290/library_600x900.jpg",
