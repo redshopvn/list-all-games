@@ -1,5 +1,15 @@
 [
     {
+        "name": "Sniper Ghost Warrior Contracts",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/973580/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
+        "name": "Football Manager 2024",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2252570/library_600x900.jpg",
+        "tags": "new_20240805"
+    },
+    {
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/library_600x900.jpg",
         "name": "Subnautica"
     },
