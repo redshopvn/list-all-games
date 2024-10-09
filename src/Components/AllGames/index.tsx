@@ -28,7 +28,7 @@ const AllGames = () => {
 
     return (<div className='main_container'>
         <div id="list_game_container" className='list_game_container'>
-            <div id='first-game'/>
+            <div id='first-game' />
             {currentItems.map((g: any, i) =>
                 <div className='ig' key={`game-${g.name}-${i}`} >
                     <LazyLoadImage
