@@ -8,7 +8,7 @@ const NewGames = () => {
         <p className='message'>🌟🌟🌟GAME MỚI🌟🌟🌟</p><div id="list_game_container" className='list_game_container_new'>
             <div className='highlight '>
                 {allGames.map((g: any, i) =>
-                    g.tags && g.tags.includes('new_20241009') && g.tags.includes('highlight') && <div className=' highlight_game' key={`game-${g.name}-${i}`}>
+                    g.tags && g.tags.includes('highlight') && <div className=' highlight_game' key={`game-${g.name}-${i}`}>
                         <LazyLoadImage
                             alt={g.name}
                             // height={195}
@@ -20,7 +20,7 @@ const NewGames = () => {
                 )}
             </div>
             {allGames.map((g: any, i) =>
-                g.tags && g.tags.includes('new_20241009') && !g.tags.includes('highlight') && <div className='ig ' key={`game-${g.name}-${i}`}>
+                g.tags && g.tags.includes('new_20241023') && !g.tags.includes('highlight') && <div className='ig ' key={`game-${g.name}-${i}`}>
                     <LazyLoadImage
                         alt={g.name}
                         height={195}

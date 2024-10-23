@@ -1,5 +1,10 @@
 [
     {
+        "name": "Metaphor: ReFantazio",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg",
+        "tags": "new_20241023, highlight"
+    },
+    {
         "name": "God of War Ragnarök",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900.jpg",
         "tags": "new_20241009, highlight"
@@ -9,10 +14,40 @@
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2183900/library_600x900.jpg",
         "tags": "new_20241009, highlight"
     },
+
+
+    {
+        "name": "Unplagued",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3062930/library_600x900.jpg",
+        "tags": "new_20241023"
+    },
+    {
+        "name": "NieR Replicant™ ver.1.22474487139...",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1113560/library_600x900.jpg",
+        "tags": "new_20241023"
+    },
+    {
+        "name": "Tormented Souls",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1367590/library_600x900.jpg",
+        "tags": "new_20241023"
+    },
+    {
+        "name": "Bloodstained: Ritual of the Night",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/692850/library_600x900.jpg",
+        "tags": "new_20241023"
+    },
+    {
+        "name": "Gal*Gun: Double Peace",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/511740/library_600x900.jpg",
+        "tags": "new_20241023"
+    },
+
+
+
     {
         "name": "Black Myth: Wukong",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg",
-        "tags": "new_20241009, highlight"
+        "tags": "new_20241009"
     },
     {
         "name": "Ghost of Tsushima DIRECTOR'S CUT",
