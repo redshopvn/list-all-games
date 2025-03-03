@@ -20,7 +20,7 @@ const NewGames = () => {
                 )}
             </div>
             {allGames.map((g: any, i) =>
-                g.tags && g.tags.includes('new_20241023') && !g.tags.includes('highlight') && <div className='ig ' key={`game-${g.name}-${i}`}>
+                g.tags && g.tags.includes('new_20250303') && !g.tags.includes('highlight') && <div className='ig ' key={`game-${g.name}-${i}`}>
                     <LazyLoadImage
                         alt={g.name}
                         height={195}

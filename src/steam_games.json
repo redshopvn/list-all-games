@@ -1,21 +1,135 @@
 [
     {
+        "name": "FINAL FANTASY VII REBIRTH",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2909400/library_600x900_2x.jpg",
+        "tags": "new_20250303, highlight"
+    },
+    {
+        "name": "Baldur's Gate 3",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900_2x.jpg",
+        "tags": "new_20250303, highlight"
+    },
+    {
+        "name": "Kingdom Come: Deliverance II",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1771300/library_600x900_2x.jpg",
+        "tags": "new_20250303, highlight"
+    },
+    {
+        "name": "EVERSPACE™ 2",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1128920/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "DYSMANTLE",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/846770/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Serious Sam 4",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/257420/library_600x900_2x.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "AI: The Somnium Files",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/948740/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Danganronpa Another Episode: Ultra Despair Girls",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/555950/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Zanki Zero: Last Beginning",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/819020/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Zero Escape: The Nonary Games",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/477740/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Zero Escape: Zero Time Dilemma",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/311240/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Party Animals",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1260320/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Nodebuster",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107330/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Watchmen: The End is Nigh",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/21010/portrait.png",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Watchmen: The End is Nigh Part 2",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/21030/portrait.png",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Syberia: The World Before",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1410640/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Amnesia: Rebirth",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/999220/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "THE HOUSE OF THE DEAD: Remake",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1694600/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Mega Man Battle Network Legacy Collection Vol. 2",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1798020/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "Panzer Dragoon: Remake",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1178880/library_600x900_2x.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "METAL SLUG XX",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/975680/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "METAL SLUG 2",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/366260/library_600x900.jpg",
+        "tags": "new_20250303"
+    },
+    {
+        "name": "The Walking Dead: The Telltale Definitive Series",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1449690/library_600x900_2x.jpg",
+        "tags": "new_20250303"
+    },
+
+    {
         "name": "Metaphor: ReFantazio",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg",
-        "tags": "new_20241023, highlight"
+        "tags": "new_20241023"
     },
     {
         "name": "God of War Ragnarök",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900.jpg",
-        "tags": "new_20241009, highlight"
+        "tags": "new_20241009"
     },
     {
         "name": "Warhammer 40,000: Space Marine 2",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2183900/library_600x900.jpg",
-        "tags": "new_20241009, highlight"
+        "tags": "new_20241009"
     },
-
-
     {
         "name": "Unplagued",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3062930/library_600x900.jpg",
