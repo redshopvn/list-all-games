@@ -6,12 +6,14 @@ interface Game {
     name: string;
     image: string;
     tags?: string[];
+    app_id?: string;
     [key: string]: unknown;
 }
 
 const NewGames: React.FC = () => {
-    const allGames: Game[] = [...(AllSteamGames as Game[]), ...(AllEpicGames as Game[])]
+    const allGames: Game[] = [...(AllSteamGames as unknown as Game[]), ...(AllEpicGames as Game[])]
     console.log('NewGames allGames', allGames.length);
+    
 
     return (
         <div className="card_new">
@@ -35,11 +37,14 @@ const NewGames: React.FC = () => {
                 {allGames.map((g: Game, i: number) =>
                     g.tags && g.tags.includes('new_20260104') && !g.tags.includes('highlight') && (
                         <div className='ig ' key={`game-${g.name}-${i}`}>
-                            <LazyLoadImage
+                            <object data={g.image} type="image/png">
+      <img height={195} width={135} src={`https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${g.app_id}/portrait.png`} alt={g.name}/>
+    </object>
+                            {/* <LazyLoadImage
                                 alt={g.name}
                                 height={195}
                                 src={g.image} // use normal <img> attributes as props
-                                width={135} />
+                                width={135} /> */}
                             {/* <div className={g.tags.includes('highlight') ? ' title' : 'title'}>{g.name}</div> */}
                         </div>
                     )

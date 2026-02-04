@@ -87,7 +87,7 @@
   -webkit-transform: scale(1.2);
 }
 
-img {
+object {
   height: auto !important;
   max-width: 100% !important;
   display: inline-block;
@@ -387,6 +387,17 @@ button:active:before {
   justify-content: center;
   align-items: center;
   padding-bottom: 24px;
+}
+.highlight img {
+ height: auto !important;
+  max-width: 100% !important;
+  display: inline-block;
+  vertical-align: middle;
+  border-style: none;
+  border-radius: 8px;
+  /* box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;   */
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 .highlight_game {
