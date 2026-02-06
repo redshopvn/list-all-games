@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 import AllSteamGames from '../../steam_games.json'
 import AllEpicGames from '../../epic_games.json'
@@ -15,13 +16,14 @@ const FindGames = () => {
             setFoundGame([]);
             return;
         }
-        const filtered = allGames.filter(g => g.name.toUpperCase().includes(value.toUpperCase()))
-        if (filtered.length === 0) {
+        const filtered = allGames.filter(g => g.name && g.name.toUpperCase().includes(value.toUpperCase()))
+        const validGames = filtered.map(g => ({ name: g.name as string, image: g.image }))
+        if (validGames.length === 0) {
             setMessage('Có 0 games chưa từ khóa '+ value)
         } else {
             setMessage('')
         }
-        setFoundGame(filtered)
+        setFoundGame(validGames)
         
     }
     const onClear = () => {

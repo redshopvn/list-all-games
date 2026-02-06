@@ -10,7 +10,7 @@ interface Game {
 }
 
 const NewGames: React.FC = () => {
-    const allGames: Game[] = [...(AllSteamGames as Game[]), ...(AllEpicGames as Game[])]
+    const allGames: Game[] = [...(AllSteamGames as unknown as Game[]), ...(AllEpicGames as Game[])]
     console.log('NewGames allGames', allGames.length);
 
     return (
@@ -33,7 +33,7 @@ const NewGames: React.FC = () => {
                     )}
                 </div>
                 {allGames.map((g: Game, i: number) =>
-                    g.tags && g.tags.includes('new_20260104') && !g.tags.includes('highlight') && (
+                    g.tags && g.tags.includes('20260206') && !g.tags.includes('highlight') && (
                         <div className='ig ' key={`game-${g.name}-${i}`}>
                             <LazyLoadImage
                                 alt={g.name}

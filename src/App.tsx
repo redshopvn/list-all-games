@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header />
-      <TextContent count={2165} />
+      <TextContent count={2733} />
       <FindGames />
       <NewGames />
       <AllGames />

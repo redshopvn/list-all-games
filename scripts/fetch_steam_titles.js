@@ -81,7 +81,7 @@ async function fetchHtml(url) {
     results.push({
       name: name || null,
       image: appId ? `https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/${appId}/library_600x900.jpg` : null,
-      tags: "new_20260104"
+      tags: "20260206"
     });
     // polite delay
     await new Promise(r => setTimeout(r, 750));

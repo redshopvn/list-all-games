@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import AllSteamGames from '../../steam_games.json'
 import AllEpicGames from '../../epic_games.json'
 import { LazyLoadImage } from 'react-lazy-load-image-component';
