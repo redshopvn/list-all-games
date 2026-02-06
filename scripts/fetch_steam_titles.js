@@ -54,8 +54,8 @@ async function main() {
     }
     results.push({
       name: name || null,
-      image: appId ? `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${appId}/library_600x900.jpg` : null,
-      tags: ""
+      image: appId ? `https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/${appId}/library_600x900.jpg` : null,
+      tags: "new_20260104"
     });
     await new Promise(r => setTimeout(r, 750));
   }

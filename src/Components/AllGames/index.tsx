@@ -1,6 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import AllSteamGames from '../../steam_games.json'
 import AllEpicGames from '../../epic_games.json'
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ReactPaginate from 'react-paginate';
 import { useState } from 'react';
 const AllGames = () => {
@@ -20,6 +21,9 @@ const AllGames = () => {
         const fistElement = document.getElementById("first-game");
         if (fistElement) {
             fistElement.scrollIntoView()
+            console.log(
+                `called`
+            );
         }
     };
 
@@ -28,14 +32,11 @@ const AllGames = () => {
             <div id='first-game' />
             {currentItems.map((g: any, i) =>
                 <div className='ig' key={`game-${g.name}-${i}`} >
-                    <object height={195} width={135} data={g.image} type="image/png">
-                        <img height={195} width={135} src={`https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${g.app_id}/portrait.png`} alt={g.name}/>
-                    </object>
-                    {/* <LazyLoadImage
+                    <LazyLoadImage
                         alt={g.name}
                         height={195}
                         src={g.image} // use normal <img> attributes as props
-                        width={135} /> */}
+                        width={135} />
                     <div className="title">{g.name}</div>
                 </div>
             )}
