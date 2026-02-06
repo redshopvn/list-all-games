@@ -6,13 +6,14 @@ interface Game {
     name: string;
     image: string;
     tags?: string[];
+    app_id?: string;
     [key: string]: unknown;
 }
 
 const NewGames: React.FC = () => {
     const allGames: Game[] = [...(AllSteamGames as unknown as Game[]), ...(AllEpicGames as Game[])]
     console.log('NewGames allGames', allGames.length);
-
+    
     return (
         <div className="card_new">
             <p className='message'>🌟🌟🌟GAME MỚI🌟🌟🌟</p>
