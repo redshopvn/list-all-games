@@ -145,7 +145,7 @@
   },
   {
     "name": "The Deed: Dynasty",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460960/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460960/portrait.png",
     "tags": "",
     "app_id": "460960"
   },
@@ -181,7 +181,7 @@
   },
   {
     "name": "Just Ignore Them",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/561770/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/561770/portrait.png",
     "tags": "",
     "app_id": "561770"
   },
@@ -199,7 +199,7 @@
   },
   {
     "name": "King's Bounty: Armored Princess",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170/cccb4b7469c476f52c579ce619a86ccf88fdc21a/library_capsule.jpg",
     "tags": "",
     "app_id": "3170"
   },
@@ -325,7 +325,7 @@
   },
   {
     "name": "Zomborg",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/729720/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/729720/portrait.png",
     "tags": "",
     "app_id": "729720"
   },
@@ -565,7 +565,7 @@
   },
   {
     "name": "Three Sisters",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3584190/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3584190/5593a735907e894e02fa27f65520690a318070b9/library_600x900.jpg?t=1753070908",
     "tags": "",
     "app_id": "3584190"
   },
@@ -727,19 +727,19 @@
   },
   {
     "name": "Mini Thief",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/481870/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/481870/portrait.png",
     "tags": "",
     "app_id": "481870"
   },
   {
     "name": "Watchmen: The End is Nigh",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21010/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21010/portrait.png",
     "tags": "",
     "app_id": "21010"
   },
   {
     "name": "Watchmen: The End is Nigh Part 2",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21030/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21030/portrait.png",
     "tags": "",
     "app_id": "21030"
   },
@@ -829,7 +829,7 @@
   },
   {
     "name": "Minimalism",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/585690/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/585690/portrait.png",
     "tags": "",
     "app_id": "585690"
   },
@@ -847,7 +847,7 @@
   },
   {
     "name": "BLUE REFLECTION",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/658260/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/658260/portrait.png",
     "tags": "",
     "app_id": "658260"
   },
@@ -895,7 +895,7 @@
   },
   {
     "name": "Distant Space",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/569610/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/569610/portrait.png",
     "tags": "",
     "app_id": "569610"
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "name": "Assassin's Creed® Revelations",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201870/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201870/portrait.png",
     "tags": "",
     "app_id": "201870"
   },
@@ -1087,7 +1087,7 @@
   },
   {
     "name": "GIGA WRECKER",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/454410/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/454410/portrait.png",
     "tags": "",
     "app_id": "454410"
   },
@@ -1339,31 +1339,19 @@
   },
   {
     "name": "F.E.A.R.",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21090/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21090/portrait.png",
     "tags": "",
     "app_id": "21090"
   },
   {
-    "name": "F.E.A.R.",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21110/library_600x900.jpg",
-    "tags": "",
-    "app_id": "21110"
-  },
-  {
-    "name": "F.E.A.R.",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21120/library_600x900.jpg",
-    "tags": "",
-    "app_id": "21120"
-  },
-  {
     "name": "F.E.A.R. 2: Project Origin",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/16450/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/16450/portrait.png",
     "tags": "",
     "app_id": "16450"
   },
   {
     "name": "F.E.A.R. 3",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21100/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21100/portrait.png",
     "tags": "",
     "app_id": "21100"
   },
@@ -1951,7 +1939,7 @@
   },
   {
     "name": "Nelke & the Legendary Alchemists ~Ateliers of the New World~",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/886820/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/886820/portrait.png",
     "tags": "",
     "app_id": "886820"
   },
@@ -2077,7 +2065,7 @@
   },
   {
     "name": "ARK: The Survival Of The Fittest",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/407530/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/407530/portrait.png",
     "tags": "",
     "app_id": "407530"
   },
@@ -2131,7 +2119,7 @@
   },
   {
     "name": "Hellblade: Senua's Sacrifice VR Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/747350/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/747350/portrait.png",
     "tags": "",
     "app_id": "747350"
   },
@@ -3007,13 +2995,13 @@
   },
   {
     "name": "Prince of Persia®: The Sands of Time",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13600/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13600/portrait.png",
     "tags": "",
     "app_id": "13600"
   },
   {
     "name": "Prince of Persia: Warrior Within™",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13500/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13500/portrait.png",
     "tags": "",
     "app_id": "13500"
   },
@@ -3127,7 +3115,7 @@
   },
   {
     "name": "Sword Art Online: Hollow Realization Deluxe Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/607890/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/607890/portrait.png",
     "tags": "",
     "app_id": "607890"
   },
@@ -3493,7 +3481,7 @@
   },
   {
     "name": "Ultimate Epic Battle Simulator",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/616560/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/616560/portrait.png",
     "tags": "",
     "app_id": "616560"
   },
@@ -3673,7 +3661,7 @@
   },
   {
     "name": "Disney's Hercules",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/987400/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/987400/8d230264354405f5bcf90af8d1ab13ecaa947e4f/library_600x900.jpg",
     "tags": "",
     "app_id": "987400"
   },
@@ -3745,7 +3733,7 @@
   },
   {
     "name": "Yakuza Kiwami 2",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3717340/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3717340/a5d9948ba4670991d6cab69404ef2cad3ad034cf/library_capsule.jpg",
     "tags": "",
     "app_id": "3717340"
   },
@@ -3784,12 +3772,6 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728740/library_600x900.jpg",
     "tags": "",
     "app_id": "728740"
-  },
-  {
-    "name": null,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1537710/library_600x900.jpg",
-    "tags": "",
-    "app_id": "1537710"
   },
   {
     "name": "Overlord: Fellowship of Evil",
@@ -4135,13 +4117,13 @@
   },
   {
     "name": "Onechanbara Z2: Chaos",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446390/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446390/portrait.png",
     "tags": "",
     "app_id": "446390"
   },
   {
     "name": "SG/ZH: School Girl/Zombie Hunter",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/682570/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/682570/portrait.png",
     "tags": "",
     "app_id": "682570"
   },
@@ -4189,7 +4171,7 @@
   },
   {
     "name": "Endless Jade Sea -Midori no Umi-",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/925470/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/925470/portrait.png",
     "tags": "",
     "app_id": "925470"
   },
@@ -4213,7 +4195,7 @@
   },
   {
     "name": "Overload",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/448850/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/448850/portrait.png",
     "tags": "",
     "app_id": "448850"
   },
@@ -4477,19 +4459,19 @@
   },
   {
     "name": "Sword Art Online: Lost Song",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/840720/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/840720/portrait.png",
     "tags": "",
     "app_id": "840720"
   },
   {
     "name": "Sword Art Online Re: Hollow Fragment",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638650/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638650/portrait.png",
     "tags": "",
     "app_id": "638650"
   },
   {
     "name": "PAC-MAN™ CHAMPIONSHIP EDITION 2",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/441380/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/441380/portrait.png",
     "tags": "",
     "app_id": "441380"
   },
@@ -4501,7 +4483,7 @@
   },
   {
     "name": "Drop",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076530/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076530/portrait.png",
     "tags": "",
     "app_id": "1076530"
   },
@@ -4585,7 +4567,7 @@
   },
   {
     "name": "Escape From Tethys",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/822540/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/822540/portrait.png",
     "tags": "",
     "app_id": "822540"
   },
@@ -4627,7 +4609,7 @@
   },
   {
     "name": "One Drop Bot",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060320/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060320/portrait.png",
     "tags": "",
     "app_id": "1060320"
   },
@@ -4639,7 +4621,7 @@
   },
   {
     "name": "The Deed",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/420740/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/420740/portrait.png?t=1766951850",
     "tags": "",
     "app_id": "420740"
   },
@@ -4681,7 +4663,7 @@
   },
   {
     "name": "Project Mercury",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/702150/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/702150/portrait.png",
     "tags": "",
     "app_id": "702150"
   },
@@ -4728,7 +4710,7 @@
     "app_id": "442070"
   },
   {
-    "name": null,
+    "name": "Deiland",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/760620/library_600x900.jpg",
     "tags": "",
     "app_id": "760620"
@@ -4747,7 +4729,7 @@
   },
   {
     "name": "I Am Alive",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214250/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214250/portrait.png",
     "tags": "",
     "app_id": "214250"
   },
@@ -4759,7 +4741,7 @@
   },
   {
     "name": "Atelier Lulua ~The Scion of Arland~",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1045620/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1045620/portrait.png",
     "tags": "",
     "app_id": "1045620"
   },
@@ -4926,8 +4908,8 @@
     "app_id": "579180"
   },
   {
-    "name": null,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/567730/library_600x900.jpg",
+    "name": "Merry Snowballs",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/567730/header.jpg",
     "tags": "",
     "app_id": "567730"
   },
@@ -4942,12 +4924,6 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/326460/library_600x900.jpg",
     "tags": "",
     "app_id": "326460"
-  },
-  {
-    "name": null,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/623990/library_600x900.jpg",
-    "tags": "",
-    "app_id": "623990"
   },
   {
     "name": "SPORE™",
@@ -4993,13 +4969,13 @@
   },
   {
     "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2427430/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2427430/99dd2e5c363eacb0aec4ffa7a998562eefa459dd/library_600x900.jpg",
     "tags": "",
     "app_id": "2427430"
   },
   {
     "name": "This Starry Midnight We Make",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/320090/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/320090/portrait.png",
     "tags": "",
     "app_id": "320090"
   },
@@ -5089,7 +5065,7 @@
   },
   {
     "name": "Fluffy Horde",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/777880/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/777880/portrait.png",
     "tags": "",
     "app_id": "777880"
   },
@@ -5155,7 +5131,7 @@
   },
   {
     "name": "Evergarden",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/576500/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/576500/portrait.png",
     "tags": "",
     "app_id": "576500"
   },
@@ -5221,13 +5197,13 @@
   },
   {
     "name": "Rayman® Origins",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207490/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207490/portrait.png",
     "tags": "",
     "app_id": "207490"
   },
   {
     "name": "Rayman Raving Rabbids™",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15080/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15080/portrait.png",
     "tags": "",
     "app_id": "15080"
   },
@@ -5286,12 +5262,6 @@
     "app_id": "939850"
   },
   {
-    "name": null,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167920/library_600x900.jpg",
-    "tags": "",
-    "app_id": "1167920"
-  },
-  {
     "name": "Danganronpa 2: Goodbye Despair",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413420/library_600x900.jpg",
     "tags": "",
@@ -5335,7 +5305,7 @@
   },
   {
     "name": "Frozen Synapse Prime",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/328600/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/328600/portrait.png",
     "tags": "",
     "app_id": "328600"
   },
@@ -5395,7 +5365,7 @@
   },
   {
     "name": "Atelier Lydie & Suelle ~The Alchemists and the Mysterious Paintings~",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/756590/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/756590/portrait.png",
     "tags": "",
     "app_id": "756590"
   },
@@ -5413,7 +5383,7 @@
   },
   {
     "name": "Sun Blast: Star Fighter",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/344910/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/344910/portrait.png",
     "tags": "",
     "app_id": "344910"
   },
@@ -5455,7 +5425,7 @@
   },
   {
     "name": "ZOMBI",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339230/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339230/portrait.png",
     "tags": "",
     "app_id": "339230"
   },
@@ -5545,7 +5515,7 @@
   },
   {
     "name": "Cold Fear™",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15270/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15270/portrait.png",
     "tags": "",
     "app_id": "15270"
   },
@@ -5575,7 +5545,7 @@
   },
   {
     "name": "DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/968790/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/968790/portrait.png",
     "tags": "",
     "app_id": "968790"
   },
@@ -5593,19 +5563,19 @@
   },
   {
     "name": "Atelier Firis: The Alchemist and the Mysterious Journey / フィリスのアトリエ ～不思議な旅の錬金術士～",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/527290/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/527290/portrait.png",
     "tags": "",
     "app_id": "527290"
   },
   {
     "name": "WARRIORS ALL-STARS",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/610190/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/610190/portrait.png",
     "tags": "",
     "app_id": "610190"
   },
   {
     "name": "BlockDude",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/669490/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/669490/portrait.png",
     "tags": "",
     "app_id": "669490"
   },
@@ -5617,7 +5587,7 @@
   },
   {
     "name": "Blast Zone! Tournament",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/649190/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/649190/portrait.png",
     "tags": "",
     "app_id": "649190"
   },
@@ -5634,14 +5604,8 @@
     "app_id": "292730"
   },
   {
-    "name": null,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/393100/library_600x900.jpg",
-    "tags": "",
-    "app_id": "393100"
-  },
-  {
     "name": "Call of Duty®: Modern Warfare® Remastered (2017)",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/393080/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/393080/portrait.png",
     "tags": "",
     "app_id": "393080"
   },
@@ -5701,7 +5665,7 @@
   },
   {
     "name": "STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32430/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32430/819e3a586389bc5fbb3dedd84e02619b5ef95d7e/library_600x900.jpg",
     "tags": "",
     "app_id": "32430"
   },
@@ -5899,19 +5863,19 @@
   },
   {
     "name": "Castlevania: Lords of Shadow 2",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239250/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239250/portrait.png",
     "tags": "",
     "app_id": "239250"
   },
   {
     "name": "Castlevania: Lords of Shadow – Mirror of Fate HD",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282530/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282530/portrait.png",
     "tags": "",
     "app_id": "282530"
   },
   {
     "name": "Castlevania: Lords of Shadow – Ultimate Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234080/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234080/portrait.png",
     "tags": "",
     "app_id": "234080"
   },
@@ -5922,26 +5886,14 @@
     "app_id": "209160"
   },
   {
-    "name": "Call of Duty®: Ghosts",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209170/library_600x900.jpg",
-    "tags": "",
-    "app_id": "209170"
-  },
-  {
     "name": "Call of Duty®: Black Ops",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/library_600x900.jpg",
     "tags": "",
     "app_id": "42700"
   },
   {
-    "name": "Call of Duty®: Black Ops",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42710/library_600x900.jpg",
-    "tags": "",
-    "app_id": "42710"
-  },
-  {
     "name": "DeerHunterX",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809770/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809770/portrait.png",
     "tags": "",
     "app_id": "809770"
   },
@@ -5959,7 +5911,7 @@
   },
   {
     "name": "Evolvation",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/510840/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/510840/portrait.png",
     "tags": "",
     "app_id": "510840"
   },
@@ -6007,7 +5959,7 @@
   },
   {
     "name": "Super Cloudbuilt",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/463700/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/463700/0a9e97b4872b04311619b946295fe2d0b1e78323/library_capsule.jpg",
     "tags": "",
     "app_id": "463700"
   },
@@ -6019,7 +5971,7 @@
   },
   {
     "name": "Sky Break",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/405370/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/405370/portrait.png",
     "tags": "",
     "app_id": "405370"
   },
@@ -6115,7 +6067,7 @@
   },
   {
     "name": "Little Nightmares Enhanced Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2149010/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2149010/6024db900a8beca8c32cab4bb4f7bf9951a198c7/library_600x900.jpg",
     "tags": "",
     "app_id": "2149010"
   },
@@ -6126,18 +6078,6 @@
     "app_id": "55150"
   },
   {
-    "name": null,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/654310/library_600x900.jpg",
-    "tags": "",
-    "app_id": "654310"
-  },
-  {
-    "name": null,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/854300/library_600x900.jpg",
-    "tags": "",
-    "app_id": "854300"
-  },
-  {
     "name": "Orwell: Keeping an Eye On You",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/491950/library_600x900.jpg",
     "tags": "",
@@ -6145,7 +6085,7 @@
   },
   {
     "name": "From The Sky: New Horizon",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/895430/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/895430/portrait.png",
     "tags": "",
     "app_id": "895430"
   },
@@ -6187,19 +6127,13 @@
   },
   {
     "name": "Odysseus Kosmos and his Robot Quest: Episode 1",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/769920/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/769920/portrait.png",
     "tags": "",
     "app_id": "769920"
   },
   {
-    "name": null,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/656370/library_600x900.jpg",
-    "tags": "",
-    "app_id": "656370"
-  },
-  {
     "name": "RWBY: Grimm Eclipse",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418340/library_600x900.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418340/portrait.png",
     "tags": "",
     "app_id": "418340"
   },
