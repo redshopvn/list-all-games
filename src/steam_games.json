@@ -1,5 +1,311 @@
 [
   {
+  "name": "Breathedge",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/738520/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "738520"
+},
+  {
+  "name": "Dragon Marked For Death",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1149440/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1149440"
+},
+  {
+  "name": "OCTOPATH TRAVELER™",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/921570/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "921570"
+},
+  {
+  "name": "Yet Another Zombie Defense HD",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/674750/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "674750"
+},
+  {
+  "name": "Skillshot City",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/308600/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "308600"
+},
+  {
+  "name": "CARRION",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953490/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "953490"
+},
+  {
+  "name": "The Disney Afternoon Collection",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/525040/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "525040"
+},
+  {
+  "name": "Agatha Christie - The ABC Murders",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374900/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "374900"
+},
+  {
+  "name": "Bendy and the Dark Revival",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1063660/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1063660"
+},
+  {
+  "name": "Life is Strange: Double Exposure",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874000/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1874000"
+},
+  {
+  "name": "DEAD OR ALIVE 6 Last Round",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4144680/fce54b268b7147d92f572ad2ee0622b104ad6ae3/library_capsule.jpg",
+  "tags": "20260822",
+  "app_id": "4144680"
+},
+  {
+  "name": "FINAL FANTASY XVI",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "2515020"
+},
+  {
+  "name": "The Legend of Heroes: Trails of Cold Steel IV",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1198090/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1198090"
+},
+  {
+  "name": "Redemption Reapers",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2139300/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "2139300"
+},
+  {
+  "name": "Trails in the Sky 1st Chapter",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375780/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "3375780"
+},
+  {
+  "name": "The Binding of Isaac: Rebirth",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "250900"
+},
+  {
+  "name": "Wild Terra 2: New Lands",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1134700/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1134700"
+},
+  {
+  "name": "The Red Lantern",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1053710/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1053710"
+},
+  {
+  "name": "Happy's Humble Burger Farm",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1433340/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1433340"
+},
+  {
+  "name": "Remothered: Tormented Fathers",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/633360/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "633360"
+},
+  {
+  "name": "Gravity Circuit",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/858710/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "858710"
+},
+  {
+  "name": "TBH: Task Bar Hero",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3678970/27924ae787ba8bd793a39efd6c778b0b32226a31/library_capsule.jpg",
+  "tags": "20260822",
+  "app_id": "3678970"
+},
+  {
+  "name": "A Plague Tale: Requiem",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1182900/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1182900"
+},
+  {
+  "name": "Drift86",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1070580/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1070580"
+},
+  {
+  "name": "Warhammer 40,000: Gladius - Relics of War",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "489630"
+},
+  {
+  "name": "Bunny Guys!",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2218460/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "2218460"
+},
+  {
+  "name": "Bunny Hurling",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3515620/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "3515620"
+},
+  {
+  "name": "Car Mechanic Simulator 2018",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/645630/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "645630"
+},
+  {
+  "name": "Game of Thrones Kingsroad",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4214820/d2b9b1c7433d22cd1c3c312d45c3230645f275ad/library_capsule.jpg",
+  "tags": "20260822",
+  "app_id": "4214820"
+},
+  {
+  "name": "Monochrome Mobius: Rights and Wrongs Forgotten",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962430/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1962430"
+},
+  {
+  "name": "SurrounDead Poly Construction",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4148570/7d07d363bead0760fc12dd8592c734130e1e4f14/library_capsule.jpg",
+  "tags": "20260822",
+  "app_id": "4148570"
+},
+  {
+  "name": "Aeonic",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3277530/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "3277530"
+},
+  {
+  "name": "8AM",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2835590/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "2835590"
+},
+  {
+  "name": "Nocturnal",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1634080/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1634080"
+},
+  {
+  "name": "NineHells",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2860410/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "2860410"
+},
+  {
+  "name": "Stickman Killing Zombie",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792610/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "2792610"
+},
+  {
+  "name": "Uncanny Tales: Cold Road",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3534240/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "3534240"
+},
+  {
+  "name": "Legend of Keepers: Career of a Dungeon Manager",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978520/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "978520"
+},
+  {
+  "name": "Sherlock Holmes The Awakened",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1949030/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1949030"
+},
+  {
+  "name": "Layers of Fear 2 (2019)",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1029890/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1029890"
+},
+  {
+  "name": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/702120/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "702120"
+},
+  {
+  "name": "Graveyard Keeper",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/599140/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "599140"
+},
+  {
+  "name": "FINAL FANTASY VI",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1173820/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1173820"
+},
+  {
+  "name": "OCTOPATH TRAVELER II",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971650/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1971650"
+},
+  {
+  "name": "GOD EATER 3",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/899440/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "899440"
+},
+  {
+  "name": "GreedFall",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606880/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "606880"
+},
+  {
+  "name": "Saints Row®: The Third™ Remastered",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978300/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "978300"
+},
+  {
+  "name": "Sniper Ghost Warrior Contracts",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/973580/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "973580"
+},
+  {
+  "name": "Sniper Ghost Warrior Contracts 2",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1338770/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1338770"
+},
+  {
+  "name": "Remnant: From the Ashes",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/617290/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "617290"
+},
+  {
+  "name": "King of Crabs",
+  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1273710/library_600x900.jpg",
+  "tags": "20260822",
+  "app_id": "1273710"
+},
+  {
     "name": "Brigandine The Legend of Runersia",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1843940/library_600x900.jpg",
     "tags": "20260206",

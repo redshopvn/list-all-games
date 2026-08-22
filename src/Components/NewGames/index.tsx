@@ -34,7 +34,7 @@ const NewGames: React.FC = () => {
                     )}
                 </div>
                 {allGames.map((g: Game, i: number) =>
-                    g.tags && g.tags.includes('20260206') && !g.tags.includes('highlight') && (
+                    g.tags && g.tags.includes('20260822') && !g.tags.includes('highlight') && (
                         <div className='ig ' key={`game-${g.name}-${i}`}>
                             <LazyLoadImage
                                 alt={g.name}
