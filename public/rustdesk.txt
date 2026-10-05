@@ -41,3 +41,24 @@ sudo flatpak remote-add flathub https://flathub.org/repo/flathub.flatpakrepo (th
 sudo flatpak remote-add flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo (this wll re-add the repo)
 
 flatpak remotes (this will now show the 2 added repos)
+
+
+-------------
+Dualboot windows
+Windows:
+
+bcdedit.exe -set {globalsettings} highestmode on
+
+https://github.com/ryanrudolfoba/SteamDeck-rEFInd-dualboot
+
+SteamOs:
+
+cd ~/
+
+git clone https://github.com/ryanrudolfoba/SteamDeck-rEFInd-dualboot
+
+cd ~/SteamDeck-rEFInd-dualboot
+
+chmod +x install-rEFInd.sh
+
+./install-rEFInd.sh
